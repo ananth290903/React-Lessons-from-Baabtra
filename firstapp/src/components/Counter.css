@@ -1,0 +1,71 @@
+
+/*
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Edu+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
+.mainb
+{
+  display:flex;
+  flex-direction:column;
+  gap:100px;
+  justify-content:center;
+  background-color:#212d45;
+  width:500px;
+  margin: 100px auto;
+  border:1px solid #0b98e8;
+  border-radius:10px;
+}
+
+
+.heading
+{
+  display:flex;
+  justify-content:center;
+    font-family: "Bebas Neue", sans-serif;
+    font-size:60px;
+    color:white;
+}
+
+
+
+
+[class^="line-"]
+{
+  width:500px;
+  height:30px;
+  background-color:#0b98e8;
+}
+
+.buttonpanel
+{
+  display:flex;
+  flex-direction:row;
+  gap:20px;
+  color:white;
+  font-size:30px;
+  font-weight:600;
+}
+
+[class^="butt-"]:hover {
+  background-color: #087bb8; /* Darker blue 
+  cursor: pointer;
+}
+
+[class^="butt-"]
+{
+  width:150px;
+  height:50px;
+  border-radius:12.5px;
+  background-color:#0b98e8;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.count_value
+{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  color:white;
+  font-size:32px;
+}

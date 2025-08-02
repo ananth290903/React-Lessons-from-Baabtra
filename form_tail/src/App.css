@@ -1,0 +1,10 @@
+
+
+#root {
+  min-width:100vh;
+  display:flex;
+  flex-direction:row;
+  gap:40px;
+  height:10vh;
+}
+
